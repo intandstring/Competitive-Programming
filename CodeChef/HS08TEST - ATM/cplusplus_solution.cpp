@@ -13,5 +13,5 @@ int main() {
     } 
   }
   cout << fixed << setprecision(2) <<balance;
-	return 0;
+  return 0;
 }
